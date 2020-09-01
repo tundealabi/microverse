@@ -1,0 +1,32 @@
+
+#welcome-section{
+	text-align: center;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#projects{
+	background-color: green; 
+	text-align: center;
+	padding: 6em 2em 0 2em;
+}
+
+#projects h2{
+	text-decoration: underline;
+}
+#bottom{
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	background: yellow;
+	padding-top: 6em;
+	text-align: center;
+	justify-content: space-around;
+}
+hr{
+   border: 2px solid red;
+   width: 100%;
+}
